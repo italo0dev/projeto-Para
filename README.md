@@ -1,6 +1,6 @@
 português;
 bom aqui um pequeno texto para explica um pouco do projeto, a ideia inicial era algo para ser apresentado 
-antes da COP30 com finalidade de "apresentar" o estado brasileiro que sera sede para o evento o Estado do Pará
+antes da COP30 com finalidade de "apresentar" o estado brasileiro que será sede para o evento o Estado do Pará
 a função era de apresentar de forma rapida e interativa a cultura, historia, gastronomia entre outros aspecetos
 que faz parte mas foi algo que eu criei sem muita experiencia em desenvolvimento então comforme eu for.
 ganhando experiencia e conseguir aplicar isso ao meus projeto vou atualinzando sempre que eu conseguir
